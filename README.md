@@ -5,5 +5,5 @@ Gruppo: Khadija Ezrouri, Nohayla Nadir
 
 PRESENTAZIONE
 
-CONTENUTO
+CONTENUTO:
 Uso delle reti neurali convoluzionali (CNN) per l'image recognition in python
